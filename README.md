@@ -1,5 +1,5 @@
 # Medical_Image_Analysis
-Medical Image Analysis research project 
+Medical Image Analysis research project conducted with Alex Delalande and Lorenzo Croissant
 
 #### Original paper : 
 https://arxiv.org/pdf/1307.6008
