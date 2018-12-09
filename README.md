@@ -1,5 +1,5 @@
 # Medical_Image_Analysis
-Medical Image Analysis research project conducted with Alex Delalande and Lorenzo Croissant under the supervision of X. Pennec and H. Delingette (INRIA - EPIONE)
+Medical Image Analysis research project conducted with Alex Delalande and Lorenzo Croissant under the supervision of X. Pennec and H. Delingette (INRIA - EPIONE) for course validation in master MVA.
 
 #### Original paper : 
 https://arxiv.org/pdf/1307.6008
